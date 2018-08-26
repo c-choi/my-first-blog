@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45999d54-aef4-4bbc-b811-701e446af954" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Basic_20171221.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DART_financial_statement-master/Basic_20171221.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DART_financial_statement-master/DART_financial_statement.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DART_financial_statement-master/dart_financial_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NS_list_search/N_datalab_Specific.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Research/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Research/login_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Research/naver_fin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Research/phone_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Download_Image/.idea/Download_Image.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Download_Image/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Download_Image/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Download_Image/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Download_Image/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/google_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Google/image_downloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/2017-08-01/인공지능/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/2017-08-01/인공지능/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/domain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/general.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/konlpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/link_finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/naver_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/searcl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searcl/spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/choichan89.checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/choichan89.checkpoint" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/instabot.log" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/instabot.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram/instagram_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram/instagram_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-template/NBG/2017-08-31/2017-08-31.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-template/NBG/2017-08-31/2017-08-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-template/NBG/2017-09-01/2017-09-01.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-template/crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parser-template/pyteaser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170106.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170106.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170113.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170113.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170127.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170127.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170203.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170203.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170210.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170210.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170217.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170217.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170224.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170224.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170303.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170303.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170310.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170310.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170317.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170317.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170324.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170324.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170331.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170331.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170407.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170407.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170414.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170414.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170421.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170421.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170428.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170428.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170505.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170505.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170512.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170512.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/20170519.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/20170519.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/August-11.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/August-11.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/August-18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/August-18.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/August-25.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/August-25.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/August-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/August-4.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/July-14.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/July-14.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/July-21.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/July-21.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/July-28.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/July-28.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/July-7.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/July-7.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/June-16.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/June-16.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/June-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/June-2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/June-23.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/June-23.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/June-30.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/June-30.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/June-9.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/June-9.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/May-26.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/Old File/May-26.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pdf_downloader/pdf_downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pdf_downloader/pdf_downloader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/Excel/excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/Excel/text.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/GuessingGame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/JSON/JSON.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/JSON/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/JSON/ipa110106.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/JSON/json_example.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/JSON/twitter_crawler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/XMLparsing/US08621662-20140107.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/XMLparsing/XMLparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/XMLparsing/books.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/copy+deepcopy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/.idea/crawler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/domain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/foodmerce/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/foodmerce/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/general.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/koreafashion/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/koreafashion/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/link_finder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/naver/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/naver/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/recruit.koreanair/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/recruit.koreanair/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/searcl/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/searcl/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/crawler/spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/end+sep.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_crawler/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_crawler/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_crawler/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_crawler/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_crawler/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_crawler/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/epl_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/epl_crawler/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/geckodriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter1/1-basicExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter1/2-beautifulSoup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter1/3-exceptionHandling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter10/1-seleniumBasic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter10/2-waitForLoad.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter10/3-javascriptRedirect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/1-basicImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/2-cleanImage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/3-readWebImages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/4-solveCaptcha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/ghostdriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/page.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter11/page.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter12/1-headers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter12/2-seleniumCookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter12/3-honeypotDetection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/1-wikiUnitTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/2-wikiSeleniumTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/3-interactiveTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/4-dragAndDrop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/5-takeScreenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/6-combinedTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter13/ghostdriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter14/1-socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter14/2-seleniumSocks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/1-selectByClass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/2-selectByAttribute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/3-findDescendants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/4-findSiblings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/5-findParents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/6-regularExpressions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter2/7-lambdaExpressions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/1-getWikiLinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/2-crawlWikipedia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/3-crawlSite.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/4-getExternalLinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/5-getAllExternalLinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/articles.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/articles.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wiki.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wikiSpider/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wikiSpider/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wikiSpider/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wikiSpider/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wikiSpider/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter3/scrapy/wikiSpider/wikiSpider/spiders/articleSpider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter4/1-searchTwitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter4/2-updateTwitter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter4/3-getTwitterStatus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter4/4-decodeJson.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter4/5-jsonParsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter4/6-wikiHistories.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/1-getPageMedia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/2-createCsv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/3-scrapeCsv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/4-mysqlBasicExample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/5-storeWikiLinks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/6-6DegreesCrawlWiki.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/7-sendEmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter5/8-sendEmailWhenChristmas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/1-getText.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/2-getUtf8Text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/3-readingCsv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/4-readingCsvDict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/5-readPdf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/6-readDocx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/from urllib.request import urlopen" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter6/readPdf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter7/1-2grams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter7/2-clean2grams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/1-count2Grams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/2-countUncommon2Grams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/3-markovGenerator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/4-6DegreesFinder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/5-NltkTokenize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/6-NltkSearch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter8/7-NltkAnalysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter9/1-fileSubmission.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter9/1-simpleForm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter9/2-fileSubmission.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter9/3-cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter9/4-sessionCookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/chapter9/5-BasicAuth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/python-scraping-master/files/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/random_sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/dqn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.episode_batch.0.24336.stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.manifest.0.24336.manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000000.meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000000.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000001.meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000001.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000008.meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000008.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000027.meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000027.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000064.meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000064.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000125.meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn/gym-results/openaigym.video.0.24336.video000125.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn_cartpole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/dqn_cartpole2015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/networking/cart-pole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/networking/q-network-frozenlake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/arrow_keyin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/dummy_q_learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/e-greedy-q-learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/noisy-q-learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/nondeterministic-frozenlake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/nondeterministic-q-learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/nondeterministic-q-table-frozenlake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/reinforced_learning/q-learning/openai_gym.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/return.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/spiders/rt_spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_crawler/spiders/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/rt_movies_new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/rt_crawler/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/swordfish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/sys.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/temperature_changer/temperature_converter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/threading_selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/while.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../참고자료/PQRC-2.4-A4-latest.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../참고자료/ipython Notebook Test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../참고자료/mementopython3-english.pdf" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-478920887">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gitignore" value="1" />
+          <entry key="py" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gitignore" value="48" />
+          <entry key="py" value="465" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="Python" value="465" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <marker date="1535279556805" expanded="true" signature="118:123" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
+        <option value="$PROJECT_DIR$/mysite/urls.py" />
+        <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="djangogirls" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangogirls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangogirls" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangogirls" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangogirls" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangogirls" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45999d54-aef4-4bbc-b811-701e446af954" name="Default Changelist" comment="" />
+      <created>1535278875928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535278875928</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="840" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24908425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Query Editor" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32894737" />
+      <window_info anchor="bottom" id="SFDX" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32894737" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Salesforce" order="10" />
+      <window_info anchor="bottom" id="Log Manager" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Execute Anonymous" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/migrations/0002_auto_20180826_1930.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1535279556805" expanded="true" signature="118:123" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
